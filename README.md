@@ -1,8 +1,7 @@
 # 🧮 Calculator – Mini Project
 
 🔗 **Live Demo:**
-[https://calculator-lxi0pv7g2-khamankartukesh-7608s-projects.vercel.app](https://calculator-lxi0pv7g2-khamankartukesh-7608s-projects.vercel.app)
-
+🌐 [Visit Website](https://calculator-lxi0pv7g2-khamankartukesh-7608s-projects.vercel.app)
 ---
 
 ## 📌 Project Overview
