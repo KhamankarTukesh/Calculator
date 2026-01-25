@@ -80,9 +80,6 @@ The calculator manages state internally to prevent invalid operations.
 
 ---
 
-## 📸 Screenshot (Optional)
-
-*Add a screenshot of the calculator UI here*
 
 ---
 
